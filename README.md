@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**cheesestringer/cheesestringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the creator of Salary Seeker and Property Seeker, extensions built to take the hassle out of job searching and property hunting. I love to create tools that help save you time, effort, and money.
 
-Here are some ideas to get you started:
+### Salary Seeker
+- [Chrome](https://chrome.google.com/webstore/detail/salary-seeker/okapllpgbpdbfbpaelpjpgdmholakcfm)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/salary-seeker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Property Seeker
+- [Chrome](https://chrome.google.com/webstore/detail/property-seeker/olfjldooogfhhgklechmbdemheblklga)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/property-seeker)
+
+The easiest way to support me is by submitting ratings for the extensions that have helped you out.\
+If you're feeling extra generous you could buy me a coffee ☕.
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" width="150" />](https://www.buymeacoffee.com/cheesestringer)
+
+Your support inspires me to build and improve on tools to make life easier. Thanks so much!
