@@ -4,17 +4,24 @@ I'm the creator of Salary Seeker and Property Seeker, extensions built to take t
 
 ### Salary Seeker
 
-Shows you the hidden salary range for jobs advertised on [Seek Australia](https://www.seek.com.au) and [New Zealand](https://www.seek.co.nz).
+Reveal the hidden salary range for jobs advertised on [Seek Australia](https://www.seek.com.au) and [New Zealand](https://www.seek.co.nz).
 
 - [Chrome](https://chrome.google.com/webstore/detail/salary-seeker/okapllpgbpdbfbpaelpjpgdmholakcfm)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/salary-seeker)
 
 ### Property Seeker
 
-Shows you the hidden price range on [Domain](https://www.domain.com.au) and [Realestate](https://www.realestate.com.au) Australia.
+Reveal the hidden price range for Australian property on [Domain](https://www.domain.com.au) and [Realestate](https://www.realestate.com.au).
 
 - [Chrome](https://chrome.google.com/webstore/detail/property-seeker/olfjldooogfhhgklechmbdemheblklga)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/property-seeker)
+
+### Property Seeker NZ
+
+Reveal the hidden price range for New Zealand property on [realestate.co.nz](https://www.realestate.co.nz).
+
+- [Chrome](https://chromewebstore.google.com/detail/property-seeker-nz/poakfgloplkkmikamlfjpmfcdpckgjhf)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/property-seeker-nz)
 
 The easiest way to support me is by submitting ratings for the extensions that have helped you out.\
 If you're feeling extra generous you could buy me a coffee ☕.
