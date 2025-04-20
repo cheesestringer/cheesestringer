@@ -23,9 +23,9 @@ Reveal the hidden price range for New Zealand property on [realestate.co.nz](htt
 - [Chrome](https://chromewebstore.google.com/detail/property-seeker-nz/poakfgloplkkmikamlfjpmfcdpckgjhf)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/property-seeker-nz)
 
-The easiest way to support me is by submitting ratings for the extensions that have helped you out.\
-If you're feeling extra generous you could buy me a coffee ☕.
+The easiest way to support me is by leaving a rating or review for the extensions that have helped you out.\
+Feeling extra generous? You can support development by buying me a coffee ☕.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" width="150" />](https://www.buymeacoffee.com/cheesestringer)
 
-Your support inspires me to build and improve on tools to make life easier. Thanks so much!
+Your support motivates me to continue building and improving tools that make life easier. Thank you so much!
